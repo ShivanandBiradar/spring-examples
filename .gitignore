@@ -1,0 +1,39 @@
+README.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+*/bin/main/**
+*/bin/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+# -----------------------------------------------------------
+# GRADLE
+# -----------------------------------------------------------
+.gradle/
+.ant_targets
+.DS_Store
+.metadata
+.svn
+build/
+/artifacts/
+/tmp/
+cell-screenshots/
+
+
+### VS Code ###
+.vscode/
